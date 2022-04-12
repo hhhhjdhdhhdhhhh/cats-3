@@ -1,0 +1,133 @@
+html {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: black;
+}
+
+.code {
+    margin-left: 700px;
+    width: 50%;
+    height: 100vh;
+    border: 8px groove goldenrod;
+    text-align: center;
+    background-color: white;
+}
+
+h1 {
+    font-weight: bolder;
+    font-size: 45px;
+}
+
+.img-1 {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 30px;
+}
+
+.kitekat {
+    width: 260px;
+    height: 350px;
+    margin: 20px;
+}
+
+.kitekat-1 {
+    width: 260px;
+    height: 350px;
+}
+
+.club-4-paws {
+    width: 260px;
+    height: 350px;
+}
+
+.whiskas {
+    width: 280px;
+    height: 370px;
+    margin-bottom: 15px;
+    position: relative;
+    right: 15px;
+}
+
+.shleika {
+    margin-top: 26px;
+    width: 260px;
+    height: 310px;
+}
+
+.parrow {
+    margin-top: 15px;
+    width: 260px;
+    height: 310px;
+}
+
+.rat {
+    margin-top: 15px;
+    width: 260px;
+    height: 310px;
+}
+
+.mouse {
+    margin-top: 15px;
+    width: 260px;
+    height: 310px;
+}
+
+.cats-1 {
+    margin-top: 30px;
+    width: 260px;
+    height: 310px;
+}
+
+.p-1 {
+    position: relative;
+    bottom: 35px;
+}
+
+.p-2 {
+    position: relative;
+    bottom: 15px;
+}
+
+.p-5 {
+    font-size: 45px;
+    font-weight: 900;
+    position: relative;
+    top: 130px;
+}
+
+.price {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    position: relative;
+    bottom: 150px;
+}
+
+.o1 {
+    font-size: 20px;
+    font-weight: 800;
+    position: relative;
+    top: 195px;
+    margin-left: 15px;
+}
+
+button {
+    position: relative;
+    right: 300px;
+    top: 270px;
+    height: 55px;
+    width: 150px;
+    font-size: 30px;
+    font-weight: 900;
+    background-color: rgb(225, 244, 118);
+    border: 5px solid rgb(146, 151, 14);
+    border-radius: 10px;
+    color: rgb(109, 112, 28);
+}
+
+
+/* .p-imp {
+    position: relative;
+    top: 150px;
+    color: red;
+    font-size: 25px;
+} */
